@@ -12,7 +12,7 @@
 <h2>🌱 I’m currently learning:</h2>
 
 - <b>Active Directory</b>
-  - Learning Active Directory (I have some basic knowledge of it such as adding users)
+  - Learning Active Directory (I have some basic knowledge of it such as creating users)
 - <b>Oracle VMware</b>
   - Learning VMWare (Somewhat familiar with it)
 - <b>Ticketing System Practice (Jira)</b>
