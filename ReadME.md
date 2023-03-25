@@ -20,9 +20,9 @@
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
-- [Cisco's Networking Devices and Initial Configuration](https://www.credly.com/earner/earned/badge/c55adc2e-5da2-45a4-a671-0c9904d2c0e2)
-- [Cisco's Networking Basics](https://www.credly.com/earner/earned/badge/491016f5-c5a3-4fdf-b299-2c115ea419f8)
-- [Cisco's Introduction to Cybersecurity](https://www.credly.com/earner/earned/badge/908a0f78-0274-4a45-8ec7-d4ea6a8b9bf6)
+- [Cisco's Networking Devices and Initial Configuration](https://www.credly.com/earner/earned/badge/c55adc2e-5da2-45a4-a671-0c9904d2c0e2) - March 2023
+- [Cisco's Networking Basics](https://www.credly.com/earner/earned/badge/491016f5-c5a3-4fdf-b299-2c115ea419f8) - December 2022
+- [Cisco's Introduction to Cybersecurity](https://www.credly.com/earner/earned/badge/908a0f78-0274-4a45-8ec7-d4ea6a8b9bf6) - October 2022
 - Some College - 3 semesters with a focus on Computer Informatics - Attended 2020-2021 - [University of Montevallo](https://www.montevallo.edu)
 - Highschool Diploma - Graduated 2020 - [Calera Highschool](https://www.google.com/maps/place/Calera+High+School/@33.0922296,-86.7672334,15z/data=!4m2!3m1!1s0x0:0xecfffca18971e96d?sa=X&ved=2ahUKEwivnY6r0_X9AhWpmWoFHQLSD84Q_BJ6BAh4EAg)
 
