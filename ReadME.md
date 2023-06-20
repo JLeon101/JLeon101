@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jagger! <br/><h3>I work at Dunkin' Donuts -- pursuing a career in IT</h3>
+<h1>Hi, I'm Jagger! <br/><h3>Shift Lead at Dunkin' -- pursuing a career in IT</h3>
   - Date of Employment: October 2022 - Present
 
 <h2>👨‍💻 General IT Projects/Knowledge:</h2>
@@ -12,14 +12,14 @@
 <h2>🌱 I’m currently learning:</h2>
 
 - <b>Active Directory</b>
-  - Learning Active Directory (I have some basic knowledge of it such as creating users)
+  - Learning Active Directory
 - <b>Oracle VMware</b>
-  - Learning VMWare (Somewhat familiar with it)
-- <b>Ticketing System Practice (Jira)</b>
-  - [Jira Ticketing System](https://www.atlassian.com/software/jira)
+  - Learning VMWare
+- <b>Desktop Imaging</b>
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
+- [Cisco's Basic Computer Hardware](https://www.credly.com/earner/earned/badge/0223a2bf-5cd9-43f9-b69d-918efafe18e8) - June 2023
 - [Cisco's Networking Devices and Initial Configuration](https://www.credly.com/earner/earned/badge/c55adc2e-5da2-45a4-a671-0c9904d2c0e2) - March 2023
 - [Cisco's Networking Basics](https://www.credly.com/earner/earned/badge/491016f5-c5a3-4fdf-b299-2c115ea419f8) - December 2022
 - [Cisco's Introduction to Cybersecurity](https://www.credly.com/earner/earned/badge/908a0f78-0274-4a45-8ec7-d4ea6a8b9bf6) - October 2022
