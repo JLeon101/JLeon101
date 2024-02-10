@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 General IT Projects/Knowledge:</h2>
 
-- <b>Windows 10 Troubleshooting</b>
+- <b>Windows Troubleshooting</b>
   - I grew up using a vast amount of technology and adapted to it quickly
 - <b>Network Troubleshooting</b>
   - Was raised on troubleshooting technology since I grew up within the Golden Era of computing
@@ -16,6 +16,7 @@
 - <b>Oracle VMware</b>
   - Learning VMWare
 - <b>Desktop Imaging</b>
+- <b>AWS Solutions Architect</b>
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
