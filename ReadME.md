@@ -1,5 +1,5 @@
-<h1>Hi, I'm Jagger! <br/><h3>Shift Lead at Dunkin' -- pursuing a career in IT</h3>
-  - Date of Employment: October 2022 - Present
+<h1>Hi, I'm Jagger! <br/><h3>Dispensary Technician -- pursuing a career in IT</h3>
+  - Date of Employment: September 2023 - Present
 
 <h2>👨‍💻 General IT Projects/Knowledge:</h2>
 
