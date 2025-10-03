@@ -22,15 +22,16 @@
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
-- [DataCamp's Introduction to Power BI](https://media.licdn.com/dms/image/v2/D4E2DAQGKOxk76jxJ-A/profile-treasury-document-cover-images_480/B4EZmmiWjuIUBQ-/0/1759435648417?e=1760047200&v=beta&t=WS__XYlCfKXbGh1TzywyUZ0q5GY8E9RjIvuj1Aluyak) - October 2025
-- [DataCamp's Intermediate SQL](https://media.licdn.com/dms/image/v2/D4E2DAQH9Iq3xX1AYtg/profile-treasury-image-shrink_160_160/B4EZleyEkZKsAk-/0/1758231808871?e=1760047200&v=beta&t=V1VuW2bFJ-oSGp9y88dyIfyy_eN4PY3AXWK9KwGjiLk) - February 2025
-- [DataCamp's Introduction to SQL](https://media.licdn.com/dms/image/v2/D4E2DAQHgxD2CBs64ew/profile-treasury-image-shrink_800_800/B4EZlex2qvGYAc-/0/1758231751866?e=1760047200&v=beta&t=owZqbSvobKnMKQPMjsV731uSYaLs1M8yBYCXzqMHC2s) - January 2025
-- [Cisco's Basic Computer Hardware](https://www.credly.com/earner/earned/badge/0223a2bf-5cd9-43f9-b69d-918efafe18e8) - May 2023
-- [Cisco's Networking Devices and Initial Configuration](https://www.credly.com/earner/earned/badge/c55adc2e-5da2-45a4-a671-0c9904d2c0e2) - March 2023
-- [Cisco's Networking Basics](https://www.credly.com/earner/earned/badge/491016f5-c5a3-4fdf-b299-2c115ea419f8) - December 2022
-- [Cisco's Introduction to Cybersecurity](https://www.credly.com/earner/earned/badge/908a0f78-0274-4a45-8ec7-d4ea6a8b9bf6) - October 2022
-- DataCamp's Introduction to Programming Using Python - May 2021
-- Some College - 3 semesters with a focus on Computer Informatics - Attended 2020-2021 - [University of Montevallo](https://www.montevallo.edu)
+- [International Leadership: Ethical Leadership and Decision-Making, Coventry University](https://www.futurelearn.com/certificates/744k0zi) - October 2025
+- [Introduction to Power BI, DataCamp](https://media.licdn.com/dms/image/v2/D4E2DAQGKOxk76jxJ-A/profile-treasury-document-cover-images_480/B4EZmmiWjuIUBQ-/0/1759435648417?e=1760047200&v=beta&t=WS__XYlCfKXbGh1TzywyUZ0q5GY8E9RjIvuj1Aluyak) - October 2025
+- [Intermediate SQL, DataCamp](https://media.licdn.com/dms/image/v2/D4E2DAQH9Iq3xX1AYtg/profile-treasury-image-shrink_160_160/B4EZleyEkZKsAk-/0/1758231808871?e=1760047200&v=beta&t=V1VuW2bFJ-oSGp9y88dyIfyy_eN4PY3AXWK9KwGjiLk) - February 2025
+- [Introduction to SQL, DataCamp](https://media.licdn.com/dms/image/v2/D4E2DAQHgxD2CBs64ew/profile-treasury-image-shrink_800_800/B4EZlex2qvGYAc-/0/1758231751866?e=1760047200&v=beta&t=owZqbSvobKnMKQPMjsV731uSYaLs1M8yBYCXzqMHC2s) - January 2025
+- [Basic Computer Hardware, Cisco Network Academy](https://www.credly.com/earner/earned/badge/0223a2bf-5cd9-43f9-b69d-918efafe18e8) - May 2023
+- [Networking Devices and Initial Configuration, Cisco Network Academy](https://www.credly.com/earner/earned/badge/c55adc2e-5da2-45a4-a671-0c9904d2c0e2) - March 2023
+- [Networking Basics, Cisco Network Academy](https://www.credly.com/earner/earned/badge/491016f5-c5a3-4fdf-b299-2c115ea419f8) - December 2022
+- [Introduction to Cybersecurity, Cisco Network Academy](https://www.credly.com/earner/earned/badge/908a0f78-0274-4a45-8ec7-d4ea6a8b9bf6) - October 2022
+- Introduction to Programming Using Python, DataCamp - May 2021
+- Some College - 3 semesters with a focus on Computer Informatics - Attended Sept. 2020 - Nov. 2021 - [University of Montevallo](https://www.montevallo.edu)
 - Highschool Diploma - Graduated 2020 - [Calera Highschool](https://www.google.com/maps/place/Calera+High+School/@33.0922296,-86.7672334,15z/data=!4m2!3m1!1s0x0:0xecfffca18971e96d?sa=X&ved=2ahUKEwivnY6r0_X9AhWpmWoFHQLSD84Q_BJ6BAh4EAg)
 
 <h2>🤳 Connect with me:</h2>
