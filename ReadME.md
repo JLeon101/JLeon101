@@ -17,7 +17,7 @@
   
 <h2>🌱 I’m currently learning:</h2>
 
-- <b>JOINing in SQL</b> 
+- <b>Subqueries in SQL</b> 
 - <b>Microsoft DAX</b>
 
 <h2>📃 Certifications/Badges/Education:</h2>
