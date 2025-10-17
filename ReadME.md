@@ -22,10 +22,11 @@
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
+- [Joining Data in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/ca325ce65fc2c15abf8c57f305c662865b9001c5) - October 2025
 - [International Leadership: Ethical Leadership and Decision-Making, Coventry University](https://www.futurelearn.com/certificates/744k0zi) - October 2025
-- [Introduction to Power BI, DataCamp](https://media.licdn.com/dms/image/v2/D4E2DAQGKOxk76jxJ-A/profile-treasury-document-cover-images_480/B4EZmmiWjuIUBQ-/0/1759435648417?e=1760047200&v=beta&t=WS__XYlCfKXbGh1TzywyUZ0q5GY8E9RjIvuj1Aluyak) - October 2025
-- [Intermediate SQL, DataCamp](https://media.licdn.com/dms/image/v2/D4E2DAQH9Iq3xX1AYtg/profile-treasury-image-shrink_160_160/B4EZleyEkZKsAk-/0/1758231808871?e=1760047200&v=beta&t=V1VuW2bFJ-oSGp9y88dyIfyy_eN4PY3AXWK9KwGjiLk) - February 2025
-- [Introduction to SQL, DataCamp](https://media.licdn.com/dms/image/v2/D4E2DAQHgxD2CBs64ew/profile-treasury-image-shrink_800_800/B4EZlex2qvGYAc-/0/1758231751866?e=1760047200&v=beta&t=owZqbSvobKnMKQPMjsV731uSYaLs1M8yBYCXzqMHC2s) - January 2025
+- [Introduction to Power BI, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/ccd30c03fa31f98592b5ec5df5545cb81b4938df) - October 2025
+- [Intermediate SQL, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/e78b77c421b663c4a48765c1bfb94d384cb6cd0a) - February 2025
+- [Introduction to SQL, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/a69f07b0502f918402ca0e1249235db1380552d8) - January 2025
 - [Basic Computer Hardware, Cisco Network Academy](https://www.credly.com/earner/earned/badge/0223a2bf-5cd9-43f9-b69d-918efafe18e8) - May 2023
 - [Networking Devices and Initial Configuration, Cisco Network Academy](https://www.credly.com/earner/earned/badge/c55adc2e-5da2-45a4-a671-0c9904d2c0e2) - March 2023
 - [Networking Basics, Cisco Network Academy](https://www.credly.com/earner/earned/badge/491016f5-c5a3-4fdf-b299-2c115ea419f8) - December 2022
