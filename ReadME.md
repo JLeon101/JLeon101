@@ -22,7 +22,7 @@
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
-- [Joining Data in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/ca325ce65fc2c15abf8c57f305c662865b9001c5) - October 2025
+- [Joining Data in SQL, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/ca325ce65fc2c15abf8c57f305c662865b9001c5) - October 2025
 - [International Leadership: Ethical Leadership and Decision-Making, Coventry University](https://www.futurelearn.com/certificates/744k0zi) - October 2025
 - [Introduction to Power BI, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/ccd30c03fa31f98592b5ec5df5545cb81b4938df) - October 2025
 - [Intermediate SQL, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/e78b77c421b663c4a48765c1bfb94d384cb6cd0a) - February 2025
