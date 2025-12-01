@@ -22,6 +22,7 @@
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
+- [Data Visualization in Power BI, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/4e653c08f6a71307c889d4839aba718688e8e216) - November 2025
 - [Introduction to DAX in Power BI, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/9fa8e6a2cf19c2486c9cae352da453f903551017) - November 2025
 - [Joining Data in SQL, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/ca325ce65fc2c15abf8c57f305c662865b9001c5) - October 2025
 - [International Leadership: Ethical Leadership and Decision-Making, Coventry University](https://www.futurelearn.com/certificates/744k0zi) - October 2025
