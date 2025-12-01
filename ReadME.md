@@ -17,8 +17,8 @@
   
 <h2>🌱 I’m currently learning:</h2>
 
-- <b>Subqueries in SQL</b> 
-- <b>Microsoft DAX</b>
+- <b>CTE's in SQL</b> 
+- <b>Tableau Modelling and Visualizations</b>
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
