@@ -41,4 +41,4 @@
 
 [<img align="left" alt="Jagger Leonard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/jagger-leonard-90ab941b7/
+[linkedin]: https://www.datacamp.com/portfolio/jaggleon
