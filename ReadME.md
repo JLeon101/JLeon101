@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jagger! <br/><h3>Assistant Manager - pursuing an entry-level role in Data Analytics/Science</h3>
+<h1>Hi, I'm Jagger! <br/><h3>Assistant Manager - pursuing a role in the data analytical field</h3>
   - Date of Employment: October 2023 - Present
 
 <h2>👨‍💻 Professional Summary</h2>
