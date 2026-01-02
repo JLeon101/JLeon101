@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jagger! <br/><h3>Assistant Manager - pursuing a role in the data analytical field</h3>
+<h1>Hi, I'm Jagger! <br/><h3>Assistant Manager - pursuing a role in the data analytical or engineering field</h3>
   - Date of Employment: October 2023 - Present
 
 <h2>👨‍💻 Professional Summary</h2>
@@ -17,11 +17,13 @@
   
 <h2>🌱 I’m currently learning:</h2>
 
+- <b>Data Pipelines</b>
 - <b>CTE's in SQL</b> 
 - <b>Tableau Modelling and Visualizations</b>
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
+- [Understanding Data Engineering, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/a2d933f25e0f5201030860910867eb4ade0f4bf6) - January 2026
 - [Data Visualization in Power BI, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/4e653c08f6a71307c889d4839aba718688e8e216) - November 2025
 - [Introduction to DAX in Power BI, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/9fa8e6a2cf19c2486c9cae352da453f903551017) - November 2025
 - [Joining Data in SQL, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/ca325ce65fc2c15abf8c57f305c662865b9001c5) - October 2025
@@ -35,10 +37,4 @@
 - [Introduction to Cybersecurity, Cisco Network Academy](https://www.credly.com/earner/earned/badge/908a0f78-0274-4a45-8ec7-d4ea6a8b9bf6) - October 2022
 - Introduction to Programming Using Python, DataCamp - May 2021
 - Some College - 3 semesters with a focus on Computer Informatics - Attended Sept. 2020 - Nov. 2021 - [University of Montevallo](https://www.montevallo.edu)
-- Highschool Diploma - Graduated 2020 - [Calera Highschool](https://www.google.com/maps/place/Calera+High+School/@33.0922296,-86.7672334,15z/data=!4m2!3m1!1s0x0:0xecfffca18971e96d?sa=X&ved=2ahUKEwivnY6r0_X9AhWpmWoFHQLSD84Q_BJ6BAh4EAg)
-
-<h2>🤳 Connect with me:</h2>
-
-[<img align="left" alt="Jagger Leonard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.datacamp.com/portfolio/jaggleon
+- High School Diploma - Graduated 2020 - [Calera Highschool](https://www.google.com/maps/place/Calera+High+School/@33.0922296,-86.7672334,15z/data=!4m2!3m1!1s0x0:0xecfffca18971e96d?sa=X&ved=2ahUKEwivnY6r0_X9AhWpmWoFHQLSD84Q_BJ6BAh4EAg)
