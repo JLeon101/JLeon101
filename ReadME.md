@@ -13,7 +13,7 @@
 
 <h2>📊 Data Projects:</h2>
 
-<b> WORKING ON IT </b>
+<b> [Analyzing International Debt Statistics](https://github.com/JLeon101/Analyzing-International-Debt/blob/1af97d128c15014f324e935fd9afafc5ffcf54c5/README.md) </b>
   
 <h2>🌱 I’m currently learning:</h2>
 
