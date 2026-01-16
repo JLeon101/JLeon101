@@ -18,7 +18,8 @@
 <h2>🌱 I’m currently learning:</h2>
 
 - <b>Data Pipelines</b>
-- <b>CTE's in SQL</b> 
+- <b>Database Design</b>
+- <b>Snowflake</b>
 - <b>Tableau Modelling and Visualizations</b>
 
 <h2>📃 Certifications/Badges/Education:</h2>
