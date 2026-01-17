@@ -18,7 +18,7 @@
 <h2>🌱 I’m currently learning:</h2>
 
 - <b>Data Pipelines</b>
-- <b>Database Design</b>
+- <b>Database Systems Design</b>
 - <b>Snowflake</b>
 - <b>Tableau Modelling and Visualizations</b>
 
