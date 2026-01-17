@@ -24,6 +24,7 @@
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
+- [Introduction to Relational Databases in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/61707742fa9a8321d0d15dd42238a5af84d7edc4) - January 2026
 - [Understanding Data Engineering, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/a2d933f25e0f5201030860910867eb4ade0f4bf6) - January 2026
 - [Data Visualization in Power BI, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/4e653c08f6a71307c889d4839aba718688e8e216) - November 2025
 - [Introduction to DAX in Power BI, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/9fa8e6a2cf19c2486c9cae352da453f903551017) - November 2025
