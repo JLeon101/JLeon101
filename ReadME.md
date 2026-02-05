@@ -20,6 +20,7 @@
 - <b>Data Pipelines</b>
 - <b>Database Systems Design</b>
 - <b>Snowflake</b>
+- <b>KNIME Analytics Platform</b>
 - <b>Tableau Modelling and Visualizations</b>
 
 <h2>📃 Certifications/Badges/Education:</h2>
