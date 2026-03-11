@@ -25,6 +25,7 @@
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
+- [Introduction to Snowflake](https://www.datacamp.com/completed/statement-of-accomplishment/course/8b34f36897d299f994251bca057ad542a8bd9fba) - March 2026
 - [Database Design](https://www.datacamp.com/completed/statement-of-accomplishment/course/12e6f72cc4517b6d0dc7d51e5ac4d2eba3cb558d) - Febuary 2026
 - [Introduction to Relational Databases in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/61707742fa9a8321d0d15dd42238a5af84d7edc4) - January 2026
 - [Understanding Data Engineering, DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/a2d933f25e0f5201030860910867eb4ade0f4bf6) - January 2026
