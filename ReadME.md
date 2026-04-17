@@ -19,8 +19,8 @@
 
 - <b>Data Scraping</b>
 - <b>Statistics</b>
-- <b>KNIME Analytics Platform</b>
-- <b>isualizations and Interpretation</b>
+- <b>Apache Airflow</b>
+- <b>Visualizations and Interpretation</b>
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
