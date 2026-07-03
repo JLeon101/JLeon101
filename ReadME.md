@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jagger! <br/><h3>Assistant Manager - pursuing a role in the data analytical or engineering field</h3>
+<h1>Hi, I'm Jagger! <br/><h3>Assistant Manager / IT Operations Lead - pursuing a role in the data analytical or engineering field</h3>
   - Date of Employment: October 2023 - Present
 
 <h2>👨‍💻 Professional Summary</h2>
@@ -19,11 +19,14 @@
 
 - <b>Data Scraping</b>
 - <b>Statistics</b>
+- <b>Data Ingestion Practices</b>
 - <b>Apache Airflow</b>
-- <b>Visualizations and Interpretation</b>
+- <b>Snowflake</b>
+- <b>Terraform</b>
+- <b>dbt</b>
 
 <h2>📃 Certifications/Badges/Education:</h2>
-
+- [Associate Data Engineer in SQL] - June 2026
 - [Introduction to Snowflake](https://www.datacamp.com/completed/statement-of-accomplishment/course/8b34f36897d299f994251bca057ad542a8bd9fba) - March 2026
 - [Database Design](https://www.datacamp.com/completed/statement-of-accomplishment/course/12e6f72cc4517b6d0dc7d51e5ac4d2eba3cb558d) - Febuary 2026
 - [Introduction to Relational Databases in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/61707742fa9a8321d0d15dd42238a5af84d7edc4) - January 2026
