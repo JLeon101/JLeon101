@@ -17,6 +17,7 @@
   
 <h2>🌱 I’m currently learning:</h2>
 
+- <b>Git Certificate</b>
 - <b>Microsoft Azure Fundamentals</b>
 - <b>Microsoft Fabric</b>
 - <b>Data security & governance</b>
