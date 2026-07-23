@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jagger! <br/><h3>Assistant Manager / IT Operations Lead - pursuing a role in the data analytical or engineering field</h3>
+<h1>Hi, I'm Jagger! <br/><h3>Assistant Manager / IT Operations Lead - pursuing a role in the IT or data engineering field</h3>
   -  Date of Employment: October 2023 - Present
 
 <h2>👨‍💻 Professional Summary</h2>
