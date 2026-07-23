@@ -5,7 +5,7 @@
 
   I am an adaptable professional with a background in retail and customer service, and I'm passionate about transitioning into data analytics to leverage my technical expertise, analytical mindset, and dedication to solving complex problems. I see data not just as numbers but as a powerful tool to drive informed decisions and innovation.
 
-  What sets me apart is my diverse experience across industries-in customer-facing roles, IT tasks, and management-that has honed both interpersonal and technical skills. My foundation in tools such as SQL, Python, Tableau, and Microsoft Power Bl, paired with a deep ability to learn and adapt, enables me to approach data challenges with fresh insights.
+  What sets me apart is my diverse experience across industries-in customer-facing roles, IT tasks, and management-that has honed both interpersonal and technical skills. My foundation in tools such as SQL, Snowflake, Tableau, and Microsoft Power Bl, paired with a deep ability to learn and adapt, enables me to approach data challenges with fresh insights.
 
   Throughout my career, l've delivered results by training teams for efficiency, streamlining inventory processes to minimize discrepancies, and introducing digital solutions to enhance operations. I was recognized for my ability to educate clients on technical topics, build strong rapport, and optimize performance under pressure.
 
@@ -17,13 +17,9 @@
   
 <h2>🌱 I’m currently learning:</h2>
 
-- <b>Data Scraping</b>
-- <b>Statistics</b>
-- <b>Data Ingestion Practices</b>
-- <b>Apache Airflow</b>
-- <b>Snowflake</b>
-- <b>Terraform</b>
-- <b>dbt</b>
+- <b>Microsoft Azure Fundamentals</b>
+- <b>Microsoft Fabric</b>
+- <b>Data security & governance</b>
 
 <h2>📃 Certifications/Badges/Education:</h2>
 
