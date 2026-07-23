@@ -9,7 +9,7 @@
 
   Throughout my career, l've delivered results by training teams for efficiency, streamlining inventory processes to minimize discrepancies, and introducing digital solutions to enhance operations. I was recognized for my ability to educate clients on technical topics, build strong rapport, and optimize performance under pressure.
 
-  I am actively seeking opportunities to grow as a data analyst and would welcome introductions to professionals in the field or advice on navigating this career shift. I'm eager to bring my unique blend of experiences to contribute to data-driven success stories.
+  I am actively seeking opportunities to grow as a data engineer and would welcome introductions to professionals in the field or advice on navigating this career shift. I'm eager to bring my unique blend of experiences to contribute to data-driven success stories.
 
 <h2>📊 Data Projects:</h2>
 
