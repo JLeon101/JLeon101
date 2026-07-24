@@ -13,6 +13,8 @@
 
 <h2>📊 Data Projects:</h2>
 
+<b> [TFL Public Journeys Analysis](https://github.com/JLeon101/TFL-Journeys-Analysis) </b>
+
 <b> [Analyzing International Debt Statistics](https://github.com/JLeon101/Analyzing-International-Debt/blob/1af97d128c15014f324e935fd9afafc5ffcf54c5/README.md) </b>
   
 <h2>🌱 I’m currently learning:</h2>
