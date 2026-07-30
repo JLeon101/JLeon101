@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Professional Summary</h2>
 
-  I am an adaptable professional with a background in retail and customer service, and I'm passionate about transitioning into data analytics to leverage my technical expertise, analytical mindset, and dedication to solving complex problems. I see data not just as numbers but as a powerful tool to drive informed decisions and innovation.
+  I am an adaptable professional with a background in retail and customer service, and I'm passionate about transitioning into data engineering to leverage my technical expertise, analytical mindset, and dedication to solving complex problems. I see data not just as numbers but as a powerful tool to drive informed decisions and innovation.
 
   What sets me apart is my diverse experience across industries-in customer-facing roles, IT tasks, and management-that has honed both interpersonal and technical skills. My foundation in tools such as SQL, Databricks, Azure, Snowflake, Tableau, and Microsoft Power Bl, paired with a deep ability to learn and adapt, enables me to approach data challenges with fresh insights.
 
