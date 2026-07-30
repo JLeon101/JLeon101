@@ -20,6 +20,7 @@
 <h2>🌱 I’m currently learning:</h2>
 
 - <b>Git Certificate</b>
+- <b>Databricks Fundamentals</b>
 - <b>Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750)</b>
 - <b>Data security & governance</b>
 
