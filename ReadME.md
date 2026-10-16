@@ -1,5 +1,5 @@
-<h1>Hi, I'm Jagger! <br/><h3>Assistant Manager / IT Operations Lead - pursuing a role in the IT or data engineering field</h3>
-  -  Date of Employment: October 2023 - Present
+<h1>Hi, I'm Jagger! <br/><h3>IT Support Specialist - pursuing a career in the data engineering field</h3>
+  -  Date of Employment: August 2026 - Present
 
 <h2>👨‍💻 Professional Summary</h2>
 
@@ -20,8 +20,8 @@
 <h2>🌱 I’m currently learning:</h2>
 
 - <b>Git Certificate</b>
-- <b>Databricks Fundamentals</b>
-- <b>Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750)</b>
+- <b>DataBricks Data Engineer Associate</b>
+- <b>Docker</b>
 - <b>Data security & governance</b>
 
 <h2>📃 Certifications/Badges/Education:</h2>
