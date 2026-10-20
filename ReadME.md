@@ -1,8 +1,6 @@
 <h1>Hi, I'm Jagger! <br/><h3>IT Support Specialist - pursuing a career in the data engineering field</h3>
   -  Date of Employment: August 2026 - Present
-
- -  Searching for Employment outside of United States
-
+  - Searching for Employment outside of United States
 <h2>👨‍💻 Professional Summary</h2>
 
   I am an adaptable professional with a background in retail and customer service, and I'm passionate about transitioning into data engineering to leverage my technical expertise, analytical mindset, and dedication to solving complex problems. I see data not just as numbers but as a powerful tool to drive informed decisions and innovation.
@@ -17,7 +15,6 @@
 
 <b> [TFL Public Journeys Analysis](https://github.com/JLeon101/TFL-Journeys-Analysis) </b>
 
-<b> [Analyzing International Debt Statistics](https://github.com/JLeon101/Analyzing-International-Debt/blob/1af97d128c15014f324e935fd9afafc5ffcf54c5/README.md) </b>
   
 <h2>🌱 I’m currently learning:</h2>
 
