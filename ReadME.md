@@ -60,6 +60,6 @@
 
 <b> Introduction to Programming Using Python, DataCamp</b> --- May 2021
 
-<b> Some College - 3 semesters with a focus on Computer Informatics</b> - [University of Montevallo](https://www.montevallo.edu) --- Attended Sept. 2020 - Nov. 2021
+<b> Some College - 3 semesters with a focus on Computer Informatics</b>, [University of Montevallo](https://www.montevallo.edu) --- Attended Sept. 2020 - Nov. 2021
 
-<b>High School Diploma</b> - [Calera Highschool](https://www.google.com/maps/place/Calera+High+School/@33.0922296,-86.7672334,15z/data=!4m2!3m1!1s0x0:0xecfffca18971e96d?sa=X&ved=2ahUKEwivnY6r0_X9AhWpmWoFHQLSD84Q_BJ6BAh4EAg) --- Graduated 2020
+<b>High School Diploma</b>, [Calera Highschool](https://www.google.com/maps/place/Calera+High+School/@33.0922296,-86.7672334,15z/data=!4m2!3m1!1s0x0:0xecfffca18971e96d?sa=X&ved=2ahUKEwivnY6r0_X9AhWpmWoFHQLSD84Q_BJ6BAh4EAg) --- Graduated 2020
