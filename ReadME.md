@@ -19,7 +19,6 @@
   
 <h2>🌱 I’m currently learning:</h2>
 
-- <b>Git Certificate</b>
 - <b>DataBricks Data Engineer Associate</b>
 - <b>Docker</b>
 - <b>Data security & governance</b>
