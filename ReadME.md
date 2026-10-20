@@ -20,6 +20,7 @@
 <h2>🌱 I’m currently learning:</h2>
 
 - <b>DataBricks Data Engineer Associate</b>
+- <b>Pipeline Infrastructure & Automation
 - <b>Docker</b>
 - <b>Data security & governance</b>
 
