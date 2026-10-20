@@ -1,5 +1,6 @@
 <h1>Hi, I'm Jagger! <br/><h3>IT Support Specialist - pursuing a career in the data engineering field</h3>
   -  Date of Employment: August 2026 - Present
+
   
   -  Searching for Employment outside of United States
 
