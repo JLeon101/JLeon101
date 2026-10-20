@@ -1,7 +1,7 @@
-<h1>Hi, I'm Jagger! <br/><h3>IT Support Specialist - pursuing a career in the data engineering field</h3>
+<h1>Hi, I'm Jagger! <br/><h3>IT Support Specialist - Pursuing a Career in the Data Engineering Field</h3>
   -  Date of Employment: August 2026 - Present
         
-  - Searching for Employment outside of United States
+  - Searching for Employment Outside of United States
 <h2>👨‍💻 Professional Summary</h2>
 
   I am an adaptable professional with a background in retail and customer service, and I'm passionate about transitioning into data engineering to leverage my technical expertise, analytical mindset, and dedication to solving complex problems. I see data not just as numbers but as a powerful tool to drive informed decisions and innovation.
