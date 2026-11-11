@@ -19,9 +19,10 @@
   
 <h2>🌱 I’m currently learning:</h2>
 
+- <b>CompTIA Server+ (SK0-005) Certificate</b>
+- <b>Powershell</b>
 - <b>DataBricks Data Engineer Associate</b>
 - <b>Pipeline Infrastructure & Automation
-- <b>Docker</b>
 - <b>Data security & governance</b>
 
 <h2>📃 Certifications/Badges/Education:</h2>
